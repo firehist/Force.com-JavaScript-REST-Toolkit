@@ -1,0 +1,19 @@
+{
+  "name": "tkforce",
+  "version": "1.0.1",
+  "description": "tkforce",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/firehist/Force.com-JavaScript-REST-Toolkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firehist/Force.com-JavaScript-REST-Toolkit/issues"
+  },
+  "homepage": "https://github.com/firehist/Force.com-JavaScript-REST-Toolkit"
+}

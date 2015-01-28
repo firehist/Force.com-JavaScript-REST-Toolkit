@@ -1,0 +1,20 @@
+{
+  "name": "tkforce",
+  "version": "1.0.1",
+  "homepage": "https://github.com/firehist/Force.com-JavaScript-REST-Toolkit",
+  "authors": [
+    "Benjamin LONGEARET <blongearet@teads.tv>"
+  ],
+  "main": "./forcetk.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
